@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student @ IT, KMITL
 -------------------
 
-I study mainly on Multimedia
+I study in Multimedia & Game Development division
 
 *   🌍  I'm based in Bankok, Thailand
 *   🧠  I'm learning Next.js<a href="https://www.github.com/kaiwin50" target="_blank" rel="noreferrer"><img
